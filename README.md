@@ -24,19 +24,17 @@ My interests include Data Science, Artificial Intelligence, Data Analytics, and 
 
 ### Completed
 - Python Fundamentals
-- Object-Oriented Programming (OOP)
-
-### Currently Learning
 - NumPy
 - Pandas
-
-### Upcoming
 - Data Visualization
 - Statistics
 - SQL
-- Power BI
-- Machine Learning
 - AWS Cloud Practitioner
+
+### Currently Learning
+- Machine Learning
+
+### Upcoming
 - Databricks
 
 ---
@@ -54,13 +52,7 @@ My interests include Data Science, Artificial Intelligence, Data Analytics, and 
 
 Projects will be added as I progress through my Data Science journey.
 
-### Planned Projects
 
-- Trading Journal Application
-- Expense Tracker
-- Trading Performance Analyzer
-- Stock Market Analysis
-- Financial Dashboard
 
 ---
 

@@ -1,78 +1,110 @@
 # Hi there 👋, I'm Yunik Bhattarai
 
-### Aspiring Data Scientist
+### Data Science • Artificial Intelligence • Analytics
 
 🎓 BSc (Hons) Computer Science Student
 
-📊 Passionate about Data Science, Artificial Intelligence, and Financial Markets.
+📊 Passionate about Data Science, Artificial Intelligence, Analytics, and Financial Markets.
 
 ---
 
 ## 👨‍💻 About Me
 
-I am currently pursuing a BSc (Hons) in Computer Science and building a strong foundation in Data Science through hands-on learning and practical projects.
+I am a BSc (Hons) Computer Science student with a strong interest in Data Science, Artificial Intelligence, Analytics, and Financial Markets.
 
-My interests include Data Science, Artificial Intelligence, Data Analytics, and Financial Markets. I enjoy solving problems with data and continuously improving my technical skills.
+My current focus is on building practical skills in Python, Statistics, Data Analysis, SQL, and Machine Learning through hands-on projects, continuous learning, and real-world experiences.
 
-🎯 Career Goal:
+Alongside my technical journey, I actively follow financial markets and enjoy exploring how data can be used to uncover insights, solve problems, and support data-driven decision-making.
 
-**Data Analyst → Data Scientist**
+I believe in learning by building and documenting my progress through projects and open-source platforms.
 
 ---
 
-## 📚 Learning Roadmap
+## 🚀 Current Focus
 
-### Completed
-- Python Fundamentals
-- NumPy
-- Pandas
-- Data Visualization
-- Statistics
-- SQL
-- AWS Cloud Practitioner
-
-### Currently Learning
-- Machine Learning
-
-### Upcoming
-- Databricks
+* Strengthening my Data Science foundation
+* Building a portfolio of real-world projects
+* Learning NumPy, Pandas, Statistics, and SQL
+* Exploring Artificial Intelligence and Machine Learning
+* Applying data-driven approaches to Financial Markets
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-- Python
-- Git
-- GitHub
-- VS Code
+### Languages
+
+* Python
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+
+### Currently Learning
+
+* NumPy
+* Pandas
+* Statistics
+* SQL
 
 ---
 
 ## 📂 Projects
 
-Projects will be added as I progress through my Data Science journey.
+Projects will be added as I progress through my learning journey.
 
+Planned Projects:
 
+* Trading Performance Analyzer
+* Financial Market Data Analysis
+* Data Visualization Dashboard
+* SQL Analytics Projects
+
+---
+
+## 💼 Experience
+
+### Full Stack Developer Intern
+
+Development Platform Mentorship Program (Biratnagar International College)
+
+* Working on real-world software projects
+* Collaborating within a development team
+* Contributing to backend and system development
+
+### Steering Member
+
+BIC AI Horizon
+
+* Supporting AI and technology initiatives
+* Participating in technical and community activities
 
 ---
 
 ## 🎓 Education
 
 ### Biratnagar International College
-**BSc (Hons) Computer Science**  
+
+BSc (Hons) Computer Science
 2024 – Present
 
 ### University of Wolverhampton
-**BSc (Hons) Computer Science**  
+
+BSc (Hons) Computer Science
 2024 – Present
 
 ---
 
 ## 🌐 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/yunikbhattarai
-- GitHub: github.com/yunik-bhattarai
+LinkedIn:
+[www.linkedin.com/in/yunikbhattarai](http://www.linkedin.com/in/yunikbhattarai)
+
+GitHub:
+github.com/yunik-bhattarai
 
 ---
 
-⭐ Currently building my Data Science portfolio one project at a time.
+⭐ Building skills, projects, and experience in Data Science, Artificial Intelligence, and Analytics.

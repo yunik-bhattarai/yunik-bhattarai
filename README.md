@@ -35,6 +35,9 @@ I believe in learning by building and documenting my progress through projects a
 ### Languages
 
 * Python
+* SQL
+* NumPy
+* Pandas
 
 ### Tools
 
@@ -42,25 +45,31 @@ I believe in learning by building and documenting my progress through projects a
 * GitHub
 * VS Code
 
-### Currently Learning
-
-* NumPy
-* Pandas
-* Statistics
-* SQL
-
 ---
 
 ## 📂 Projects
 
-Projects will be added as I progress through my learning journey.
+## 📈 MNQ Trading Journal
 
-Planned Projects:
+A Python-based trading journal designed for Micro E-mini Nasdaq-100 Futures.
 
-* Trading Performance Analyzer
-* Financial Market Data Analysis
-* Data Visualization Dashboard
-* SQL Analytics Projects
+Features:
+
+- Trade management system
+- MNQ-specific P/L calculations
+- JSON data persistence
+- CSV export
+- Performance analytics
+- Trading statistics
+
+Technologies:
+
+Python • JSON • CSV • File Handling
+
+
+🔗 Repository:
+https://github.com/yunik-bhattarai/mnq-trading-journal
+
 
 ---
 

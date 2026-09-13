@@ -1,119 +1,145 @@
-# Hi there 👋, I'm Yunik Bhattarai
+# Hi 👋, I'm Yunik Bhattarai
 
-### Data Science • Artificial Intelligence • Analytics
+### Data Science • Artificial Intelligence • Automation
 
-🎓 BSc (Hons) Computer Science Student
-
-📊 Passionate about Data Science, Artificial Intelligence, Analytics, and Financial Markets.
+🎓 Final-Year BSc (Hons) Computer Science Student  
+💡 Learning by building, experimenting, and solving real-world problems
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a BSc (Hons) Computer Science student with a strong interest in Data Science, Artificial Intelligence, Analytics, and Financial Markets.
+I'm a final-year Computer Science student focused on **Data Science, Artificial Intelligence, Data Analytics, and AI Automation**.
 
-My current focus is on building practical skills in Python, Statistics, Data Analysis, SQL, and Machine Learning through hands-on projects, continuous learning, and real-world experiences.
+I enjoy turning concepts into practical projects using **Python, SQL, Pandas, APIs, Machine Learning, and AI-assisted development**.
 
-Alongside my technical journey, I actively follow financial markets and enjoy exploring how data can be used to uncover insights, solve problems, and support data-driven decision-making.
+I'm currently expanding my knowledge of **LLM applications, automation, RAG, embeddings, vector search, and AI agents** while continuing to strengthen my core Data Science and Machine Learning skills.
 
-I believe in learning by building and documenting my progress through projects and open-source platforms.
+I believe in:
+
+**Learn → Build → Test → Find Gaps → Improve**
 
 ---
 
 ## 🚀 Current Focus
 
-* Strengthening my Data Science foundation
-* Building a portfolio of real-world projects
-* Learning NumPy, Pandas, Statistics, and SQL
-* Exploring Artificial Intelligence and Machine Learning
-* Applying data-driven approaches to Financial Markets
+- Machine Learning & AI
+- AI Automation and LLM Applications
+- REST APIs & API Integration
+- RAG & Semantic Search Fundamentals
+- Data Analysis & Business Insights
+- Building practical portfolio projects
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Languages
+**Programming & Data**
 
-* Python
-* SQL
-* NumPy
-* Pandas
+`Python` `SQL` `Pandas` `NumPy` `Matplotlib`
 
-### Tools
+**AI & Machine Learning**
 
-* Git
-* GitHub
-* VS Code
+`Machine Learning` `LLM Fundamentals` `RAG Fundamentals` `Embeddings` `Vector Search` `LangChain Fundamentals`
+
+**APIs & Automation**
+
+`REST APIs` `JSON` `n8n` `AI-Assisted Development`
+
+**Development**
+
+`Git` `GitHub` `VS Code` `Google Colab` `React` `.NET`
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-## 📈 MNQ Trading Journal
+### 🤖 AI Knowledge Assistant — RAG Retrieval Prototype
 
-A Python-based trading journal designed for Micro E-mini Nasdaq-100 Futures.
+A retrieval-based knowledge assistant built while learning the foundations of RAG.
 
-Features:
+- Text chunking and embeddings
+- Semantic similarity search
+- FAISS vector store
+- LangChain components
+- Knowledge retrieval pipeline
 
-- Trade management system
+**Tech:** Python • LangChain • HuggingFace • FAISS
+
+---
+
+### 📊 Business Sales Analytics & Insights System
+
+A Python-based analytics project for exploring business sales performance and generating actionable insights.
+
+- Data cleaning and transformation
+- KPI analysis
+- Product, category, regional, and customer analysis
+- Profitability and discount analysis
+- Data visualization
+- Rule-based business insights
+
+**Tech:** Python • Pandas • Matplotlib • Google Colab
+
+---
+
+### 📈 MNQ Trading Journal
+
+A Python-based trading journal for Micro E-mini Nasdaq-100 Futures.
+
+- Trade management
 - MNQ-specific P/L calculations
 - JSON data persistence
 - CSV export
-- Performance analytics
-- Trading statistics
+- Performance analytics and trading statistics
 
-Technologies:
-
-Python • JSON • CSV • File Handling
-
-
-🔗 Repository:
-https://github.com/yunik-bhattarai/mnq-trading-journal
-
+**Tech:** Python • JSON • CSV
 
 ---
 
-## 💼 Experience
+## 💼 Experience & Activities
 
-### Full Stack Developer Intern
+### Development Platform Mentorship Program
+**Biratnagar International College**
 
-Development Platform Mentorship Program (Biratnagar International College)
+- Working collaboratively on the BIC Event Management System
+- Gaining practical full-stack development experience with React and .NET
+- Using Git/GitHub workflows and AI-assisted development
+- Developing teamwork, problem-solving, and software development skills
 
-* Working on real-world software projects
-* Collaborating within a development team
-* Contributing to backend and system development
+### Steering Member — BIC AI Horizon
 
-### Steering Member
+- Supporting AI and technology-focused community initiatives
+- Coordinating and contributing to student technology events
+- Promoting practical learning and engagement around AI
 
-BIC AI Horizon
+---
 
-* Supporting AI and technology initiatives
-* Participating in technical and community activities
+## 📚 Currently Learning
+
+- Machine Learning
+- LLM Application Development
+- RAG & Vector Search
+- AI Automation
+- n8n
+- Google Data Analytics Professional Certificate
 
 ---
 
 ## 🎓 Education
 
-### Biratnagar International College
-
-BSc (Hons) Computer Science
-2024 – Present
-
-### University of Wolverhampton
-
-BSc (Hons) Computer Science
-2024 – Present
+**BSc (Hons) Computer Science**  
+Biratnagar International College  
+Academic Partner: University of Wolverhampton  
+2024 – 2027 (Expected)
 
 ---
 
 ## 🌐 Connect With Me
 
-LinkedIn:
-[www.linkedin.com/in/yunikbhattarai](http://www.linkedin.com/in/yunikbhattarai)
-
-GitHub:
-github.com/yunik-bhattarai
+**LinkedIn:** www.linkedin.com/in/yunikbhattarai  
+**GitHub:** github.com/yunik-bhattarai
 
 ---
 
-⭐ Building skills, projects, and experience in Data Science, Artificial Intelligence, and Analytics.
+⭐ Building at the intersection of **Data, AI, Automation, and real-world problem solving.**
